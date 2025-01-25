@@ -1,0 +1,6 @@
+D:\.net rozwiazania\FlightControl\FlightControl.Data\bin\Debug\FlightControl.Data.dll
+D:\.net rozwiazania\FlightControl\FlightControl.Data\bin\Debug\FlightControl.Data.pdb
+D:\.net rozwiazania\FlightControl\FlightControl.Data\obj\Debug\FlightControl.Data.csproj.AssemblyReference.cache
+D:\.net rozwiazania\FlightControl\FlightControl.Data\obj\Debug\FlightControl.Data.csproj.CoreCompileInputs.cache
+D:\.net rozwiazania\FlightControl\FlightControl.Data\obj\Debug\FlightControl.Data.dll
+D:\.net rozwiazania\FlightControl\FlightControl.Data\obj\Debug\FlightControl.Data.pdb

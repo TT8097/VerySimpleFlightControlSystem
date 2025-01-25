@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightControl.Terminal", "FlightControlRych\FlightControl.Terminal.csproj", "{C137C8C8-03CB-4819-A181-3833B1B015A2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{762D9C45-9AC6-4B95-B0AC-0A46E3C47578} = {762D9C45-9AC6-4B95-B0AC-0A46E3C47578}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightControl.Data", "FlightControl.Data\FlightControl.Data.csproj", "{762D9C45-9AC6-4B95-B0AC-0A46E3C47578}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{E148A0FF-477C-4735-9240-04D5E0D31F16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Terminal", "Terminal", "{431AC4D5-C5B4-420A-85B9-11745D265BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C137C8C8-03CB-4819-A181-3833B1B015A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C137C8C8-03CB-4819-A181-3833B1B015A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C137C8C8-03CB-4819-A181-3833B1B015A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C137C8C8-03CB-4819-A181-3833B1B015A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762D9C45-9AC6-4B95-B0AC-0A46E3C47578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762D9C45-9AC6-4B95-B0AC-0A46E3C47578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762D9C45-9AC6-4B95-B0AC-0A46E3C47578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762D9C45-9AC6-4B95-B0AC-0A46E3C47578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C137C8C8-03CB-4819-A181-3833B1B015A2} = {431AC4D5-C5B4-420A-85B9-11745D265BF5}
+		{762D9C45-9AC6-4B95-B0AC-0A46E3C47578} = {E148A0FF-477C-4735-9240-04D5E0D31F16}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067D884A-1E38-4713-A0FF-5F1D9384EEEB}
+	EndGlobalSection
+EndGlobal

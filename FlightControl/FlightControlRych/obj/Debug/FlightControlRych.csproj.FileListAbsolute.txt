@@ -1,0 +1,7 @@
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControlRych.exe.config
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControlRych.exe
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControlRych.pdb
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControlRych.csproj.AssemblyReference.cache
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControlRych.csproj.CoreCompileInputs.cache
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControlRych.exe
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControlRych.pdb

@@ -1,0 +1,10 @@
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControl.Terminal.exe.config
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControl.Terminal.exe
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControl.Terminal.pdb
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControl.Terminal.csproj.AssemblyReference.cache
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControl.Terminal.csproj.CoreCompileInputs.cache
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControl.Terminal.exe
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightControl.Terminal.pdb
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControl.Data.dll
+D:\.net rozwiazania\FlightControl\FlightControlRych\bin\Debug\FlightControl.Data.pdb
+D:\.net rozwiazania\FlightControl\FlightControlRych\obj\Debug\FlightCo.B39B5FB4.Up2Date
